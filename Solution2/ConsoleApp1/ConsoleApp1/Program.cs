@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
@@ -6,7 +8,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //чтение файла
+            //читаем до конца
+            //разбиваем его
+            //создаем массив
+            //в цикле конвертируем
+            //освобождаем память
+            //сохраняем
+         
         }
     }
 }
