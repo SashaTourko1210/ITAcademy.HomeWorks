@@ -42,6 +42,24 @@ namespace HW03.Task2
             System.Object hh = 1.00;
             System.Object jj = 'a';
             System.Object kk = "a";
+            SByte qqq = 1;
+            Int16 www = 1;
+            Int32 eee = 1;
+            Int64 rrr = 1;
+            Byte ttt = 1;
+            UInt16 yyy = 1;
+            UInt32 uuu = 1;
+            UInt64 iii = 1;
+            Char ooo = 'a';
+            Single ppp = 1;
+            Double aaa = 1;
+            Decimal sss = 1;
+            Boolean ddd = false;
+            String fff = "a";
+            Object ggg = 1;
+            Object hhh = 1.00;
+            Object jjj = 'a';
+            Object kkk = "a";
         }
     }
 }
