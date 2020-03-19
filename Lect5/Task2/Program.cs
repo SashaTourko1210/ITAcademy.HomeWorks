@@ -15,7 +15,7 @@ namespace Task2
                 char key;
                 do
                 {
-                    Console.WriteLine("Enter where you want to move the item (W - up, S - down, A - left, D - right, X - you're at the place).");
+                    Console.WriteLine("Enter where you want to move the item (W - up, S - down, A - left, D - right, X - you're at the place)");
                     
                     key = Console.ReadLine()[0];
 
